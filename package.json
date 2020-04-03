@@ -29,7 +29,7 @@
     "@types/react-native": "*",
     "ascoders-tslint-config": "^1.0.2",
     "react": "*",
-    "react-native": "*",
+    "react-native": "^0.62.0",
     "tslint": "^5.8.0",
     "tslint-config-prettier": "^1.13.0",
     "typescript": "^2.9.2"

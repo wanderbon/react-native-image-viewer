@@ -22,7 +22,7 @@ export default (
     },
     watchOriginText: { color: 'white', backgroundColor: 'transparent' },
     imageStyle: {},
-    container: { backgroundColor }, // 多图浏览需要调整整体位置的盒子
+    container: { backgroundColor },
     moveBox: { flexDirection: 'row', alignItems: 'center' },
     menuContainer: { position: 'absolute', width, height, left: 0, bottom: 0, zIndex: 12 },
     menuShadow: {
